@@ -18,6 +18,6 @@ int main(int argc, const char * argv[]) {
         b[i]=i;
     }
     printf("%d    %d     %d\n",a[0],a[1],a[2]);
-    printf("%x      %x\n",a,b);
+    printf("%d      %d\n",a,b);
     return 0;
 }
